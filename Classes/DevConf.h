@@ -1,0 +1,1 @@
+﻿#define DB_INIT false
